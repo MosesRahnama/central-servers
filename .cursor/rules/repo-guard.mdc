@@ -1,0 +1,5 @@
+<!-- .cursor/rules/repo-guard.mdc -->
+# Branching
+- Use `work/active` or `task/*`. Avoid committing to `main` unless owner.
+# Commits
+- Use Conventional Commits (feat, fix, chore).
