@@ -1,0 +1,7 @@
+{
+  "files.eol": "\n",
+  "editor.formatOnSave": true,
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "gitlens.currentLine.enabled": true
+}
